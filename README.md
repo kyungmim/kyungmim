@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:06cbaf,50:66d98c,100:3b76e3&height=150)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Sans+Mono&weight=700&size=50&pause=1000&center=true&color=77D5D9&width=1000&height=80&lines=Welcome+to+Kyung_Min+GitHub%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fugaz+One&size=45&pause=1000&color=65D9B5FF&center=true&random=false&width=1000&height=80&lines=Welcome+to+Kyung_Min+GitHub%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
