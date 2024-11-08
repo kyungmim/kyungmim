@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"/>
   <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black"/>
     <div>
-
 </div>
 <br>
 </div>
