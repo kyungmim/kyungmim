@@ -22,6 +22,7 @@
         <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
         <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/Emotion-CC67BC?style=for-the-badge&logo=Emotion&logoColor=white">
     </div>
   <br>
     <p><strong>Design</strong></p>
@@ -37,6 +38,6 @@
 <div style="display:flex; flex-direction:row;">
      <div style="text-align: left;"> <a href=https://velog.io/@kyungmim/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kyungmim/posts"> </a></div>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyungmim)](https://github.com/kyungmim/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyungmim)](https://velog.io/@kyungmim/posts)
 
 </div>
