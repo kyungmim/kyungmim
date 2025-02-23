@@ -2,11 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fugaz+One&size=45&pause=1000&color=52a4ee&center=true&random=false&width=1000&height=80&lines=Welcome+to+Kyung_Min+GitHub%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyungmim&count_bg=%239DB2E8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br>
-
 
 ## 📚 Once I've used 📚
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
